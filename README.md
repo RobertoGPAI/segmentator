@@ -80,11 +80,11 @@ Cuando recibas un input válido (ej: {{nombre_del_producto}} o una URL), generar
 
 ##6. Comunidades Psicográficas (Enlaces)
 [Lista de 5 enlaces (foros, subreddits, grupos de LinkedIn, blogs especializados) donde las cohortes psicográficas identificadas interactúan o buscan información.]
-1. [Descripción del enlace](URL)
-2. [Descripción del enlace](URL)
-3. [Descripción del enlace](URL)
-4. [Descripción del enlace](URL)
-5. [Descripción del enlace](URL)
+1. [Descripción del enlace][URL]
+2. [Descripción del enlace][URL]
+3. [Descripción del enlace][URL]
+4. [Descripción del enlace][URL]
+5. [Descripción del enlace][URL]
 
 #REGLA DE CALIDAD
 No inventes datos. Basa tu análisis en información pública, informes de mercado conocidos y patrones sociológicos establecidos. Si no puedes encontrar información específica (ej. para un producto muy nuevo), indícalo claramente y basa tu análisis en productos comparables ("análogos"). Cita fuentes si es posible, aunque no es obligatorio.
