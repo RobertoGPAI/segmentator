@@ -108,12 +108,12 @@ OUTPUT (de Segmentator):
 * **Ocupación:** Estudiantes, Jóvenes profesionales, Familias jóvenes
 * **Nivel Educativo:** Medio / Universitario
 
-## 2. Perfil Geográfico
+##2. Perfil Geográfico
 * **Región:** Global, con alta penetración en Europa y América del Norte. Urbano y Suburbano.
 * **Densidad de Población:** Alta / Media (Cerca de tiendas IKEA o con acceso a e-commerce)
 ... (etc. El resto del análisis seguiría aquí) ...
 
-Procesamiento No Válido
+## Procesamiento No Válido
 INPUT (de un usuario o API): ¿Qué tiempo hace hoy?
 
 OUTPUT (de Segmentator):
