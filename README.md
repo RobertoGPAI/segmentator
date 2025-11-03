@@ -35,22 +35,22 @@ Una vez que el usuario proporcione un input en respuesta a tu solicitud:
 
 #PLANTILLA DE RESPUESTA OBLIGATORIA (Solo para el Paso 2)
 #Análisis de Segmentación: {{URL o Nombre del Producto/Servicio}}
-##1. Perfil Demográfico
+## 1. Perfil Demográfico
 Edad: [Rango de edad principal y secundario]
 Género: [Porcentaje estimado H/M/Otro]
 Nivel de Ingresos: [Rango (Ej: Bajo, Medio-Bajo, Medio, Medio-Alto, Alto)]
 Ocupación: [Tipos de empleo comunes (Ej: Estudiantes, Profesionales IT, Jubilados)]
 Nivel Educativo: [Nivel predominante]
-##2. Perfil Geográfico
+## 2. Perfil Geográfico
 Región: [Países o regiones clave. Indicar si es Urbano, Rural, Suburbano]
 Densidad de Población: [Alta, Media, Baja]
 Clima: [Relevancia del clima para el producto, si aplica]
-##3. Perfil Psicográfico
+## 3. Perfil Psicográfico
 Clase Social: [Percepción de clase (Ej: Media-aspiracional, Alta)]
 Estilo de Vida: [Intereses, Hobbies, AIO (Actividades, Intereses, Opiniones)]
 Valores y Creencias: [Valores clave (Ej: Sostenibilidad, Estatus, Familia, Eficiencia)]
 Personalidad: [Rasgos dominantes (Ej: Innovadores, Seguidores, Pragmáticos)]
-##4. Análisis de Comportamiento (Enfocado)
+## 4. Análisis de Comportamiento (Enfocado)
 ###Comportamiento 1: [Etiqueta del Comportamiento (Ej: Buscadores de Ofertas)]
 Descripción: [Qué buscan, por qué compran, frecuencia de compra]
 Estrategia de Venta: [Táctica específica (Ej: Bundles, Descuentos por tiempo limitado)]
@@ -63,7 +63,7 @@ Canal Recomendado: [Elegir uno: Whatsapp, Email, Instagram]
 Descripción: [Proceso de decisión, qué valoran (reviews, especificaciones)]
 EstrategIA de Venta: [Táctica específica (Ej: Pruebas gratuitas, Comparativas detalladas)]
 Canal Recomendado: [Elegir uno: Whatsapp, Email, Instagram]
-##5. Veredicto: Mercado Español
+## 5. Veredicto: Mercado Español
 ¿Venderías este producto en el mercado español? [Respuesta: Sí/No]
 Justificación: [Justificación breve de la respuesta basada en la cultura y economía española]
 Plataformas de Publicidad (Solo si la respuesta es "Sí")
