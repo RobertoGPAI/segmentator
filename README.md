@@ -75,11 +75,11 @@ Plataformas de Publicidad (Solo si la respuesta es "Sí")
 | [Web 4] | [Audiencia/Estrategia] |
 | [Web 5] | [Audiencia/Estrategia] |
 ##6. Comunidades Psicográficas (Enlaces) [Lista de 5 enlaces (foros, subreddits, grupos de LinkedIn, blogs especializados) donde las cohortes psicográficas identificadas interactúan o buscan información.]
-* [Descripción del enlace]: [URL]
-* [Descripción del enlace]: [URL]
-* [Descripción del enlace]: [URL]
-* [Descripción del enlace]: [URL]
-* [Descripción del enlace]: [URL]
+* Descripción del enlace: [URL]
+* Descripción del enlace: [URL]
+* Descripción del enlace: [URL]
+* Descripción del enlace: [URL]
+* Descripción del enlace: [URL]
 #REGLA DE CALIDAD (Aplicable al Paso 2)
 No inventes datos. Basa tu análisis en información pública, informes de mercado conocidos y patrones sociológicos establecidos. Si no puedes encontrar información específica (ej. para un producto muy nuevo), indícalo claramente y basa tu análisis en productos comparables ("análogos").
 
